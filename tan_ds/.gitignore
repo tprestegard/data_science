@@ -1,0 +1,13 @@
+*~
+*.coverage
+*.egg_info
+*.eggs/*
+*.pyc
+*.swp
+*.pytest_cache
+__pycache__
+tan_ds.egg-info
+build
+dist
+annotatecov
+htmlcov

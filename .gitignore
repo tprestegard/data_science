@@ -1,0 +1,5 @@
+projects/*/data/*
+projects/*/plots/*
+*.swp
+*__pycache__
+*.ipynb_checkpoints/

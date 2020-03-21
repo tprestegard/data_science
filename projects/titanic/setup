@@ -1,0 +1,2 @@
+mkvirtualenv ds_titanic -p /usr/bin/python3.7
+pip install -r requirements.txt
